@@ -233,7 +233,7 @@ Java Streams - Java Stream Match</br>
 Java Streams - Java Parallel Streams
 -->
 
- * [Externaliteration.java](src/javaStreamOperation/Externaliteration.java)
+
 <p>
 Elenco pagine  
 * [Java Streams - Java Stream Operation](http://www.java2s.com/Tutorials/Java/Java_Stream/0020__Java_Stream_Operation.htm)
